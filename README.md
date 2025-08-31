@@ -29,23 +29,10 @@ This repository contains code and resources for detecting spam messages in SMS t
     pip install -r requirements.txt
     ```
 
-## Usage
-
-- **Training the model:**  
-  Run the training script to train a spam detection model on your dataset.
-    ```bash
-    python train.py
-    ```
-
-- **Predicting new messages:**  
-  Use the prediction script to classify new SMS messages.
-    ```bash
-    python predict.py "Your SMS message here"
-    ```
 
 ## Dataset
 
-The project typically uses publicly available SMS spam datasets, such as the [UCI SMS Spam Collection](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection). You can place your dataset in the `data/` directory or update the relevant data loading paths in the scripts.
+The project typically uses publicly available SMS spam datasets. You can place your dataset in the `data/` directory or update the relevant data loading paths in the scripts.
 
 ## Project Structure
 

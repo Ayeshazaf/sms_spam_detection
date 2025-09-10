@@ -71,6 +71,4 @@ This project implements a robust machine learning pipeline to classify SMS messa
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/)
 - [DistilBERT Paper](https://arxiv.org/abs/1910.01108)
 
-## License
 
-This project is licensed under the MIT License.
